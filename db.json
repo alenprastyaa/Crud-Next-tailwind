@@ -1,0 +1,14 @@
+{
+  "product": [
+    {
+      "id": 2,
+      "title": "Macbook Pro 2019",
+      "price": 9000000
+    },
+    {
+      "title": "Ipad Mini ",
+      "price": "100000",
+      "id": 3
+    }
+  ]
+}
